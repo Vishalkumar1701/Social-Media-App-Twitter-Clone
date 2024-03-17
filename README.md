@@ -17,3 +17,8 @@ Functionalities implemented in this project are
 13. Unfollow a user
 14. View user profile page and also view other users profile page
 15. Update profile picture.
+
+Required Fields:
+PORT = 
+MONGODB_URL = 
+JWT_SECRET = 

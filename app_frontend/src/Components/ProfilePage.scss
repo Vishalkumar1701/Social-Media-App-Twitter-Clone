@@ -1,0 +1,17 @@
+.profilepage{
+    >.userInfo{
+        >.banner{
+            height: 28vh;
+            position: relative;
+        }
+        >.userPic{
+            >.userImage{
+                position: absolute;
+                top: 25%;
+            }
+            .btns{
+                width: 100%;
+            }
+        }
+    }
+}
